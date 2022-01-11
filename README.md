@@ -2,26 +2,6 @@
 
 > NOTE: 现在前三章材料设置为public view，第四到第九章的代码和教材为private view，只能看到课程相关图片
 
-## 星火计划 ｜AI课程Github文件结构&访问权限
-> repository网址：https://github.com/Tencent-Spark-Program
-有两个repository：
-
-`Tencent-Spark-Program-Tutorial-public`
-- 是publicly viewed的，也就是任何人在网络上都可以read里面的文件
-- 只限前三个单元可查看
-- 4-9单元的代码和电子课本都publicly看不到，只能看到4-9单元的图片（为主页readme提供图片render source）
-
-`Tencent-Spark-Tutorial-full`
-- 是privately viewed的，只有有权限的老师可以查看
-- 全部单元都可查看
-- 如果没有权限需要申请权限
-- 邮箱：charliechengjieji@berkeley.edu
-
-![guide1](./guide1.png)
-![guide2](./guide2.jpeg)
-
-
-
 ## **课程开发**：
 
 王晓曦（腾讯 T11 算法研究员）
@@ -65,3 +45,21 @@ Module 4 ～ 7 人工智能-人工智能神经网络基础
 ![train](/Module5/img/pytorch1.png)
 ![CNN](/Module8/img/Lenet-5%20architecture.jpeg)
 ![卷积神经网络](/Module8/img/CNN%20demo.png)
+
+## 星火计划 ｜AI课程Github文件结构&访问权限
+> repository网址：https://github.com/Tencent-Spark-Program
+有两个repository：
+
+`Tencent-Spark-Program-Tutorial-public`
+- 是publicly viewed的，也就是任何人在网络上都可以read里面的文件
+- 只限前三个单元可查看
+- 4-9单元的代码和电子课本都publicly看不到，只能看到4-9单元的图片（为主页readme提供图片render source）
+
+`Tencent-Spark-Tutorial-full`
+- 是privately viewed的，只有有权限的老师可以查看
+- 全部单元都可查看
+- 如果没有权限需要申请权限
+- 邮箱：charliechengjieji@berkeley.edu
+
+![guide1](./guide1.png)
+![guide2](./guide2.jpeg)
