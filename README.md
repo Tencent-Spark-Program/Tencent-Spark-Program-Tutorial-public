@@ -48,6 +48,7 @@ Module 4 ～ 7 人工智能-人工智能神经网络基础
 
 ## 星火计划 ｜AI课程Github文件结构&访问权限
 > repository网址：https://github.com/Tencent-Spark-Program
+
 有两个repository：
 
 `Tencent-Spark-Program-Tutorial-public`
