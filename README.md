@@ -5,6 +5,7 @@
 ## 星火计划 ｜AI课程Github文件结构&访问权限
 > repository网址：https://github.com/Tencent-Spark-Program
 有两个repository：
+
 `Tencent-Spark-Program-Tutorial-public`
 - 是publicly viewed的，也就是任何人在网络上都可以read里面的文件
 - 只限前三个单元可查看
@@ -15,6 +16,7 @@
 - 全部单元都可查看
 - 如果没有权限需要申请权限
 - 邮箱：charliechengjieji@berkeley.edu
+
 
 
 
