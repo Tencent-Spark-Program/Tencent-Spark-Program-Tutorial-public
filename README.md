@@ -17,6 +17,8 @@
 - 如果没有权限需要申请权限
 - 邮箱：charliechengjieji@berkeley.edu
 
+![guide1](./guide1.png)
+![guide2](./guide2.jpeg)
 
 
 
