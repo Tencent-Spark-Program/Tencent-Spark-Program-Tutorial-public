@@ -64,4 +64,3 @@ Module 4 ～ 7 人工智能-人工智能神经网络基础
 - 如果需要申请权限，请发送姓名、自我介绍（所在学校及身份）及github ID到邮箱charliechengjieji@berkeley.edu
 
 ![guide1](./guide1.png)
-![guide2](./guide2.jpeg)
