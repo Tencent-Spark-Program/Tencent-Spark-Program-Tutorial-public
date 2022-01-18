@@ -61,8 +61,7 @@ Module 4 ～ 7 人工智能-人工智能神经网络基础
 `Tencent-Spark-Tutorial-full`
 - 是privately viewed的，只有有权限的老师可以查看
 - 全部单元都可查看
-- 如果没有权限需要申请权限
-- 邮箱：charliechengjieji@berkeley.edu
+- 如果需要申请权限，请发送姓名、自我介绍（所在学校及身份）及github ID到邮箱charliechengjieji@berkeley.edu
 
 ![guide1](./guide1.png)
 ![guide2](./guide2.jpeg)
